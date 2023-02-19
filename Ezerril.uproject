@@ -170,6 +170,10 @@
 		{
 			"Name": "DatasmithImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "GraphNUnrealPlugin",
+			"Enabled": true
 		}
 	]
 }
